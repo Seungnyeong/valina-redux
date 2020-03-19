@@ -1,4 +1,4 @@
-import {createStore, subscribe } from "redux";
+import {createStore} from "redux";
 
 const ADD = "ADD";
 const DELETE = "DELETE";
